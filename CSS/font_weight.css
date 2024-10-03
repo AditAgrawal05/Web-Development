@@ -1,0 +1,13 @@
+ h2{
+    font-weight: 200;
+    text-decoration: dashed overline;
+    font-family: fantasy,arial,didot;
+ }
+ p{
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 2px;
+ }
+ h1{
+    font-family: arial;
+ }
